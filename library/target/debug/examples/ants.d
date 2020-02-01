@@ -1,0 +1,1 @@
+/home/doraneko94/rust/RustAntBook/library/target/debug/examples/ants: /home/doraneko94/rust/RustAntBook/library/examples/ants.rs /home/doraneko94/rust/RustAntBook/library/src/io.rs /home/doraneko94/rust/RustAntBook/library/src/lib.rs

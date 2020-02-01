@@ -1,0 +1,1 @@
+/home/doraneko94/rust/RustAntBook/library/target/debug/examples/triangle: /home/doraneko94/rust/RustAntBook/library/examples/triangle.rs /home/doraneko94/rust/RustAntBook/library/src/io.rs /home/doraneko94/rust/RustAntBook/library/src/lib.rs

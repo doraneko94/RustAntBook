@@ -1,0 +1,1 @@
+/home/doraneko94/rust/RustAntBook/library/target/debug/examples/partial_sum: /home/doraneko94/rust/RustAntBook/library/examples/partial_sum.rs /home/doraneko94/rust/RustAntBook/library/src/io.rs /home/doraneko94/rust/RustAntBook/library/src/lib.rs /home/doraneko94/rust/RustAntBook/library/src/search.rs
