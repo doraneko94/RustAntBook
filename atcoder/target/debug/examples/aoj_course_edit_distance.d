@@ -1,0 +1,1 @@
+C:\Rust\codes\RustAntBook\atcoder\target\debug\examples\aoj_course_edit_distance.exe: C:\Rust\codes\RustAntBook\atcoder\examples\aoj_course_edit_distance.rs C:\Rust\codes\RustAntBook\atcoder\src\lib.rs
